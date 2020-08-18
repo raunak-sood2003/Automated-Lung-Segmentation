@@ -1,0 +1,6 @@
+Model: UNET
+Epochs: 15
+Batch Size: 5
+Loss: BCE
+LR: 0.01
+Lung section: middle lung
