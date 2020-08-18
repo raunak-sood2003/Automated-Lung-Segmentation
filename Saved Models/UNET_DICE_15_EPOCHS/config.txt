@@ -1,0 +1,8 @@
+Lung Section: Middle
+Model: UNET
+Epochs: 15
+Batch size: 5
+Learning rate: 0.01
+Loss: Soft Dice Loss
+
+
