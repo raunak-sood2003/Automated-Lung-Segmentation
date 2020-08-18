@@ -1,0 +1,6 @@
+Loss: MSE
+Batch Size: 5
+Epochs: 15
+LR = 0.01
+Model: UNET
+Lung section: middle
