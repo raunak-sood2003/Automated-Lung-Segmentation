@@ -11,10 +11,10 @@ In this implementation, the input size was altered to account for standard DICOM
 ## Training
 The UNET model was trained on three different loss functions: binary crossentropy (BCE), mean squared error (MSE) and soft dice loss. Cross entropy and dice loss are the traditional losss functions used in segmentation tasks, although MSE has shown promising results in some studies. Additionally, the models were trained for 15 and 30 epoch with a batch size of 5 and a learning rate of 0.01. Google Cloud Platform was used for training the models. Models were trained using a 16 GB Nvidia Tesla K80 GPU.
 
-<div>
+<p align="center">
 <img src="https://github.com/raunak-sood2003/Automated-Lung-Segmentation/blob/master/Images/loss_unet15.png" width="500"/>
   <img src="https://github.com/raunak-sood2003/Automated-Lung-Segmentation/blob/master/Images/ious_unet15.png" width="500"/>
-</div>
+</p>
 
 |                   | Train IOU |  Val IOU  |  Test IOU   |Train Loss |  Val Loss |  Test Loss   |
 | :-----            | :---------| ---------:|------------:|----------:|----------:|-------------:|
