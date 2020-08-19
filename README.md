@@ -13,6 +13,7 @@ The UNET model was trained on three different loss functions: binary crossentrop
 ![alt-text-1](https://github.com/raunak-sood2003/Automated-Lung-Segmentation/blob/master/Images/loss_unet15.png) ![alt-text-2](https://github.com/raunak-sood2003/Automated-Lung-Segmentation/blob/master/Images/ious_unet15.png)
 <div>
 <img src="https://github.com/raunak-sood2003/Automated-Lung-Segmentation/blob/master/Images/loss_unet15.png" width="500"/>
+  <img src="https://github.com/raunak-sood2003/Automated-Lung-Segmentation/blob/master/Images/ious_unet15.png" width="500"/>
 </div>
 <div>
 <img src="https://github.com/raunak-sood2003/Automated-Lung-Segmentation/blob/master/Images/ious_unet15.png" width="500"/>
