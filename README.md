@@ -27,20 +27,3 @@ The models were compared based on loss as well as intersection over union (IOU).
 <p align="center">
   <img src="https://github.com/raunak-sood2003/Automated-Lung-Segmentation/blob/master/Images/lung_mask_pred_unet15.png" />
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Evaluation
-
