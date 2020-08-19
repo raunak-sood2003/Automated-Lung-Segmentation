@@ -6,4 +6,7 @@ The UNET model was adapted from the original paper (https://arxiv.org/abs/1505.0
 <div>
 <img src="https://github.com/raunak-sood2003/Automated-Lung-Segmentation/blob/master/Images/unet_unet15.png" width="500"/>
 </div>
+<p align="center">
+  <img src="https://github.com/raunak-sood2003/Automated-Lung-Segmentation/blob/master/Images/unet_unet15.png" />
+</p>
 In this implementation, the input size was altered to account for standard DICOM image size (572 x 572), and the output mask shape matched the input size by adding a padding of one to each convolutional layer.
