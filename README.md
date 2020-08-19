@@ -21,6 +21,8 @@ The UNET model was trained on three different loss functions: binary crossentrop
 |MSE_UNET_15_epochs |0.99110307 | 0.9800711 | 0.9924166463|0.0019727  | 0.00214739|0.002164409328|
 |DICE_UNET_15_epochs| 0.99095268| 0.98127504|0.9930113867 |0.00604069 | 0.00506628|0.005660841359|
 
+ANALYSIS
+
 <p align="center">
   <img src="https://github.com/raunak-sood2003/Automated-Lung-Segmentation/blob/master/Images/lung_mask_pred_unet15.png" />
 </p>
