@@ -15,7 +15,7 @@ The UNET model was trained on three different loss functions: binary crossentrop
   <img src="https://github.com/raunak-sood2003/Automated-Lung-Segmentation/blob/master/Images/ious_unet15.png" width="500"/>
 </div>
 
-|:------------------| Train IOU | Val IOU   | Test IOU    | Train Loss| Val Loss  | Test Loss    |
+|                   | Train IOU | Val IOU   | Test IOU    | Train Loss| Val Loss  | Test Loss    |
 | :-----            | :---------| ---------:|------------:|----------:|----------:|-------------:|
 |BCE_UNET_15_epochs | 0.99225839| 0.97326782|0.9853959925 | 0.00563051| 0.01408213|0.01404043255 |
 |MSE_UNET_15_epochs |0.99110307 | 0.9800711 | 0.9924166463|0.0019727  | 0.00214739|0.002164409328|
