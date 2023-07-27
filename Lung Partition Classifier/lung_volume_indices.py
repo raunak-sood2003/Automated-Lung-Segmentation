@@ -66,4 +66,3 @@ def make_lung_partitions(lung_dirs, mask_dirs, slices_list):
         for k in range(slices_list[idx][1], lung_npy.shape[0]):
             upper_lung.append([lung_npy[k, :, :], mask_npy[k, :, :]])
     return lower_lung, middle_lung, upper_lung
-
